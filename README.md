@@ -7,6 +7,8 @@ This [ArcGIS Pro Toolbox](https://urichmond.maps.arcgis.com/home/item.html?id=45
 Census Boundaries: Any geospatial census boundaries. Make sure these have a geoid, fips, or nhgis join code. This is used in the dissolve analysis. 
 HOLC Polygons: This works best with the DSL's Mapping Inequality HOLC Polygons layer. You will need the holc_grade and neighborhood_id field. 
 
+*Note: This tool with work with any boundary, it does not have to be Census boundaries. The main element you will need is a unique id for each boundary polygon. This can be in place of the geoid, fips, or nhgis join code.
+
 Questions? 
 Contact: [Justin Madron] (jmadron@richmond.edu)
  
