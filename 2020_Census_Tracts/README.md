@@ -1,6 +1,6 @@
 ﻿#HOLC Polygons and 2020 CensusTracts
 
-Census Tracts were intersected with HOLC Polygons. Census information can be joined via the "nhgis_join" field. There are two field "perc_tract" which gives you the proportion of Census Tract in the HOLC Polygon. 
+Census Tracts were intersected with HOLC Polygons. Census information can be joined via the "nhgis_join" field. The field "perc_tract" gives you the proportion of a given Census Tract in the HOLC Polygon. Assuming equal distribution, you can calculate any variable within a particular graded HOLC neighborhood.
 
 If you are citing Mapping Inequality or acknowledge the source of any of the following data, we recommend the following format using the Chicago Manual of Style.
 
